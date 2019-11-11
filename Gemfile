@@ -17,7 +17,8 @@ gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
 gem 'activestorage-validator'
-
+gem 'omniauth', '1.3.1'
+gem 'omniauth-linkedin-oauth2'
 # Put here to don't break in production
 gem 'pry-byebug'
 
